@@ -45,8 +45,6 @@ namespace CloudCustomers.UnitTests.System.Services
             );
         }
 
-
-
         [Fact]
         public async Task GetAllUsers_WhenCalled_ReturnsListOfUsers()
         {
